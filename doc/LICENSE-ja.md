@@ -1,6 +1,6 @@
 # MITライセンス（日本語参考訳）
 
-これは同梱の [LICENSE](LICENSE) の理解を助けるための日本語参考訳です。正式なライセンスは英語原文です。
+これは同梱の [LICENSE](../LICENSE) の理解を助けるための日本語参考訳です。正式なライセンスは英語原文です。
 
 Copyright (c) 2026 mano3viewer authors
 
