@@ -1,0 +1,5 @@
+url: "https://s6line.github.io"
+baseurl: "/mano3viewer"
+
+plugins:
+  - jekyll-sitemap
