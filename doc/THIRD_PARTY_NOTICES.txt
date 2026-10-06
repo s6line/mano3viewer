@@ -8,7 +8,7 @@ Slint 1.17.1
 ------------
 Slint Royalty-free Desktop, Mobile, and Web Applications License 2.0を選択しています。
 ライセンス全文はSLINT-LICENSE.mdを参照してください。
-帰属表示は「歯車メニュー → バージョン情報」に表示します。
+帰属表示は右クリックメニューの「バージョン情報」、または「環境設定を開く」の「情報 / About・動作環境」に表示します。
 https://slint.dev/
 
 Skia / skia-safe 0.99.0
